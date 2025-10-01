@@ -60,7 +60,12 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---

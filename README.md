@@ -8,17 +8,17 @@
 
 ## 🌸 About Me 
 
-- 🪐 Currently wandering through the universe of **Artificial Intelligence & Machine Learning**
-  
-- ☕ Python is my daily caffeine (with a strong shot of **Data Structures & Algorithms**)
+- 🪐 Currently wandering through the universe of **Artificial Intelligence & Machine Learning**  
 
-- 🛠️ Built some cool stuff with **Flask** (Python’s way of saying “I can be a framework too!”)
+- ☕ Python is my daily caffeine (with a strong shot of **Data Structures & Algorithms**)  
 
-- 🔍 Queries in life? I solve them with **MySQL** (well… at least the database ones 😅)
+- 🛠️ Built some cool stuff with **Flask** (Python’s way of saying “I can be a framework too!”)  
 
-- 📚 Libraries I hang out with: **Pandas, NumPy, Scikit-learn** (the rest of the library is still TBR 📖)
+- 🔍 Queries in life? I solve them with **MySQL** (well… at least the database ones 😅)  
 
-- 💻 My best friends: **VS Code & Google Colab** (they never ghost me ❤️)
+- 📚 Libraries I hang out with: **Pandas, NumPy, Scikit-learn** (the rest of the library is still TBR 📖)  
+
+- 💻 My best friends: **VS Code & Google Colab** (they never ghost me ❤️)  
 
 - 💡 Passionate about **Problem-Solving, Machine Learning, and AI Magic**  
 

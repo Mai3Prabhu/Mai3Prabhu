@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Maitri Prabhu 🚀</h1>
+<h1 align="center">👩‍💻 Code. Curiosity. Conquer. – That’s me, Maitri Prabhu!</h1>
 <p align="center">
   <b>Final Year Undergrad</b> | 🍭 AI/ML Explorer | 🐍 Python Whisperer <br>
   <i>"Wandering through bugs & queries... but hey, that’s how discoveries are made!"</i>
@@ -37,13 +37,9 @@
 
 ## 🚀 Projects  
 
-### 📌 [Project 1: Virtual Mouse & Keyboard Controller](https://github.com/YOUR-REPO-LINK)
-- Built a **hand gesture-controlled system** that works as a virtual mouse & keyboard.  
-- Added voice assistant integration for seamless interaction.  
-
-### 📌 [Project 2: Pick-and-Drop Rover](https://github.com/YOUR-REPO-LINK)
-- Designed a rover capable of **object detection & transportation**.  
-- Implemented using **Python, OpenCV, and IoT modules**.  
+### 📌 [Insightify](https://github.com/Mai3Prabhu/Insightify)
+- Flask-based web application designed to simplify the initial stages of **data science workflows**.  
+- Features include: **Exploratory Data Analysis (EDA), Feature Engineering,** and basic **Machine Learning model training**.  
 
 ---
 
@@ -57,29 +53,22 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <!-- Light mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:maitriprabhu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/maitriprabhu30/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mai3Prabhu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is 90% figuring out why it doesn’t work and 10% breaking it later."</i>
 </p>

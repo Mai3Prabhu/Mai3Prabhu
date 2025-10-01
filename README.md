@@ -11,7 +11,7 @@
 - 🪐 Currently wandering through the universe of **Artificial Intelligence & Machine Learning**
   
 - ☕ Python is my daily caffeine (with a strong shot of **Data Structures & Algorithms**)
-- 
+
 - 🛠️ Built some cool stuff with **Flask** (Python’s way of saying “I can be a framework too!”)
 
 - 🔍 Queries in life? I solve them with **MySQL** (well… at least the database ones 😅)

@@ -1,21 +1,32 @@
-<h1 align="center">🌻 Sunflower-Powered AI Engineer</h1>
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://github.com/Mai3Prabhu/Mai3Prabhu/blob/main/profile.jpeg"
-       width="220"
-       alt="Maitri Prabhu"/>
-</p>
+<td width="30%" align="center">
 
-<p align="center">
-  <b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
-  <br>
-  <i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
-</p>
+<img src="https://raw.githubusercontent.com/Mai3Prabhu/Mai3Prabhu/main/profile.jpeg"
+     width="220"
+     alt="Maitri Prabhu"/>
 
-<p align="center">
-  🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
-</p>
+</td>
 
+<td width="70%">
+
+<h1>🌻 Sunflower-Powered AI Engineer</h1>
+
+<b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
+
+<br><br>
+
+<i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
+
+<br><br>
+
+🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
+
+</td>
+
+</tr>
+</table>
 ---
 
 > Status: Online ☕

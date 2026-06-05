@@ -111,31 +111,6 @@ Exploring how AI can move from answering questions to actually taking actions.
 
 ### 🔗 MCP (Model Context Protocol)
 Learning how AI systems communicate with tools, data, and external systems.
-
----
-
-## 🎮 Character Sheet
-
-**Name:** Maitri Prabhu
-
-**Class:** Sunflower-Powered AI Engineer 🌻
-
-**Level:** Final Year Undergrad
-
-**Current Build:** AI Agents + RAG + Agentic AI
-
-### Special Skills
-
-- +10 Curiosity
-- +8 Debugging
-- +7 Learning New Technologies
-- +9 Turning Ideas Into Projects
-
-### Weaknesses
-
-- "Just one more feature..."
-- Bugs that disappear when someone is watching
-- Reading documentation after trying everything else
   
 ---
 
@@ -152,21 +127,6 @@ Flask-based web application designed to simplify the initial stages of **data sc
 - 🤖 Machine Learning Model Training
   
 ---
-
-## 🌻 My Coding Garden
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mai3Prabhu&show_icons=true&theme=gruvbox&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mai3Prabhu&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mai3Prabhu&theme=gruvbox&no-frame=true&row=1&column=6"/>
-</p>
-
 
 ## 🌐 Connect with Me
 

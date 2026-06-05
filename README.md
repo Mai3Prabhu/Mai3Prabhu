@@ -1,7 +1,3 @@
-<img align="left"
-     src="https://raw.githubusercontent.com/Mai3Prabhu/Mai3Prabhu/main/profile.jpeg"
-     width="170"
-     alt="Maitri Prabhu"/>
 
 # 🌻 Sunflower-Powered AI Engineer
 
@@ -13,14 +9,14 @@
 
 🧠 Deep Learning • 📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP
 
+---
+```
 ☕ **Status:** Online
 
 🎯 **Current Quest:** Building AI systems that are smarter than my previous code
 
 🐞 **Side Quest:** Convincing bugs that they are actually features 🌻
-
-<br clear="left"/>
-
+```
 ---
 
 ## 🌸 About Me

@@ -1,30 +1,85 @@
-<h1 align="center">👩‍💻 Code. Curiosity. Conquer. – That’s me, Maitri Prabhu!</h1>
+<h1 align="center">🌻 Sunflower-Powered AI Engineer</h1>
+
 <p align="center">
-  <b>Final Year Undergrad</b> | 🍭 AI/ML Explorer | 🐍 Python Whisperer <br>
-  <i>"Wandering through bugs & queries... but hey, that’s how discoveries are made!"</i>
+  <img src="YOUR_PHOTO_LINK_HERE" width="180" style="border-radius:50%;" alt="Maitri Prabhu"/>
+</p>
+
+<p align="center">
+  <b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
+  <br>
+  <i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
+</p>
+
+<p align="center">
+  🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
 </p>
 
 ---
 
-## 🌸 About Me 
-
-- 🪐 Currently wandering through the universe of **Artificial Intelligence & Machine Learning**  
-
-- ☕ Python is my daily caffeine (with a strong shot of **Data Structures & Algorithms**)  
-
-- 🛠️ Built some cool stuff with **Flask** (Python’s way of saying “I can be a framework too!”)  
-
-- 🔍 Queries in life? I solve them with **MySQL** (well… at least the database ones 😅)  
-
-- 📚 Libraries I hang out with: **Pandas, NumPy, Scikit-learn** (the rest of the library is still TBR 📖)  
-
-- 💻 My best friends: **VS Code & Google Colab** (they never ghost me ❤️)  
-
-- 💡 Passionate about **Problem-Solving, Machine Learning, and AI Magic**  
+> Status: Online ☕
+>
+> Current Quest: Building AI systems that are smarter than my previous code
+>
+> Side Quest: Convincing bugs that they are actually features 🌻
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🌸 About Me
+
+- 🪐 Currently wandering through the ever-expanding universe of **Artificial Intelligence**
+
+- 🌱 Started with **Machine Learning** and somehow wandered into **Deep Learning, LLMs, RAG, AI Agents, and Agentic AI**
+
+- ☕ Python is still my daily caffeine (with a strong shot of **Data Structures & Algorithms**)
+
+- 🛠️ Built cool things with **Flask** (Python's way of saying "I can be a framework too!")
+
+- 🔍 Queries in life? I solve them with **MySQL** (well... at least the database ones 😅)
+
+- 📚 Libraries I hang out with:
+  **Pandas, NumPy, Scikit-Learn** (the rest of the library is still TBR 📖)
+
+- 💻 My best friends:
+  **VS Code & Google Colab** (they never ghost me ❤️)
+
+- 🏗️ Exploring how intelligent systems can **retrieve, reason, and take actions**
+
+- 💡 Passionate about:
+  **Problem-Solving, AI Engineering, Agentic Systems, and Building Things That Didn't Exist Yesterday**
+
+---
+
+## 🌱 Growth Timeline
+
+### 🌻 Seed Stage
+🐍 Python • 🗄️ SQL • ⚡ Data Structures & Algorithms
+
+### 🌿 Growing Stage
+📊 Data Analysis • 🤖 Machine Learning • 🌐 Flask Development
+
+### 🌼 Blooming Stage
+🧠 Deep Learning • NLP • LLM Fundamentals
+
+### 🌻 Sunflower Stage (Current)
+📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP • 🏢 Enterprise AI
+
+---
+
+## 📊 Current Mental State
+
+AI Knowledge
+████████░░ 80%
+
+Confidence Before Deployment
+██████████ 100%
+
+Confidence After Deployment
+██░░░░░░░░ 20%
+
+Curiosity
+██████████ 100%
+
+## 🛠️ Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,48 +88,109 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
----
 
-## 🚀 Projects  
+## 🚧 Things Keeping Me Awake
+
+### 🤖 AI Agents
+Teaching software how to reason, retrieve, and occasionally make good decisions.
+
+### 📚 RAG Systems
+Because asking an LLM to remember everything is a terrible business strategy.
+
+### 🕸️ Agentic AI
+Exploring how AI can move from answering questions to actually taking actions.
+
+### 🔗 MCP (Model Context Protocol)
+Learning how AI systems communicate with tools, data, and external systems.
+
+### 🏢 Enterprise AI
+Turning thousands of documents and business processes into something AI can actually understand.
+
+
+## 🎮 Character Sheet
+
+**Name:** Maitri Prabhu
+
+**Class:** Sunflower-Powered AI Engineer 🌻
+
+**Level:** Final Year Undergrad
+
+**Current Build:** AI Agents + RAG + Agentic AI
+
+### Special Skills
+
+- +10 Curiosity
+- +8 Debugging
+- +7 Learning New Technologies
+- +9 Turning Ideas Into Projects
+
+### Weaknesses
+
+- "Just one more feature..."
+- Bugs that disappear when someone is watching
+- Reading documentation after trying everything else
+
+## 🚀 Projects
 
 ### 📌 [Insightify](https://github.com/Mai3Prabhu/Insightify)
-- Flask-based web application designed to simplify the initial stages of **data science workflows**.  
-- Features include: **Exploratory Data Analysis (EDA), Feature Engineering,** and basic **Machine Learning model training**.  
 
----
+Flask-based web application designed to simplify the initial stages of **data science workflows**.
 
-## 📊 GitHub Stats  
+#### Features
+
+- 📊 Exploratory Data Analysis (EDA)
+- ⚙️ Feature Engineering
+- 🤖 Machine Learning Model Training
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mai3Prabhu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mai3Prabhu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai3Prabhu&theme=tokyonight" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai3Prabhu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:maitriprabhu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/maitriprabhu30/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/Mai3Prabhu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+
+
 ---
 
+## 🌻 Sunflower Philosophy
+
+A sunflower doesn't compete with the flower next to it.
+
+It simply keeps growing toward the light.
+
+That's pretty much my approach to learning AI too.
+
+
 <p align="center">
-  <i>"Code is 90% figuring out why it doesn’t work and 10% breaking it later."</i>
+  <i>"Code is 90% figuring out why it doesn't work and 10% breaking it later."</i>
 </p>

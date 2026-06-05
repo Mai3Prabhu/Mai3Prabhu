@@ -1,7 +1,9 @@
 <h1 align="center">🌻 Sunflower-Powered AI Engineer</h1>
 
 <p align="center">
-  <img src="C:\Users\maitr\Pictures\me under the tree.jpeg" width="180" style="border-radius:50%;" alt="Maitri Prabhu"/>
+  <img src="https://raw.githubusercontent.com/Mai3Prabhu/Mai3Prabhu/main/me%20under%20the%20tree.jpeg"
+       width="220"
+       alt="Maitri Prabhu"/>
 </p>
 
 <p align="center">

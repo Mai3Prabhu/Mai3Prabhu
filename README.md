@@ -1,26 +1,22 @@
-<div align="center">
+<h1 align="center">🌻 Sunflower-Powered AI Engineer</h1>
 
-# 🌻 Sunflower-Powered AI Engineer
+<p align="center">
+  <b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
+  <br>
+  <i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
+</p>
 
-### Maitri Prabhu
+<p align="center">
+  🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
+</p>
 
-**Final Year Undergrad** • 🤖 **AI Engineer in Progress** • 🐍 **Python Whisperer**
+---
 
-*"Wandering through bugs & queries... but hey, that's how discoveries are made!"*
-
-🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
-
-🧠 Deep Learning • 📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP
-
-<br>
-
-☕ **Status:** Online
-
-🎯 **Current Quest:** Building AI systems that are smarter than my previous code
-
-🐞 **Side Quest:** Convincing bugs that they are actually features 🌻
-
-</div>
+> Status: Online ☕
+>
+> Current Quest: Building AI systems that are smarter than my previous code
+>
+> Side Quest: Convincing bugs that they are actually features 🌻
 
 ---
 

@@ -1,36 +1,25 @@
-<table>
-<tr>
-
-<td width="25%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Mai3Prabhu/Mai3Prabhu/main/profile.jpeg"
-     width="180"
+<img align="left"
+     src="https://raw.githubusercontent.com/Mai3Prabhu/Mai3Prabhu/main/profile.jpeg"
+     width="170"
      alt="Maitri Prabhu"/>
 
-</td>
+# 🌻 Sunflower-Powered AI Engineer
 
-<td width="75%" valign="top">
+**Maitri Prabhu** | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
 
-<h1>🌻 Sunflower-Powered AI Engineer</h1>
-<br>
-<b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
-<br>
-<i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
+*"Wandering through bugs & queries... but hey, that's how discoveries are made!"*
 
 🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
 
 🧠 Deep Learning • 📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP
 
-☕ <b>Status:</b> Online
+☕ **Status:** Online
 
-🎯 <b>Current Quest:</b> Building AI systems that are smarter than my previous code
+🎯 **Current Quest:** Building AI systems that are smarter than my previous code
 
-🐞 <b>Side Quest:</b> Convincing bugs that they are actually features 🌻
+🐞 **Side Quest:** Convincing bugs that they are actually features 🌻
 
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 

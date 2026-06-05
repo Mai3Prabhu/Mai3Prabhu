@@ -61,7 +61,7 @@
 🧠 Deep Learning • NLP • LLM Fundamentals
 
 ### 🌻 Sunflower Stage (Current)
-📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP • 🏢 Enterprise AI
+📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP 
 
 ---
 
@@ -78,6 +78,8 @@ Confidence After Deployment
 
 Curiosity
 ██████████ 100%
+
+---
 
 ## 🛠️ Tech Toolbox
 
@@ -99,7 +101,7 @@ Curiosity
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
-
+--- 
 ## 🚧 Things Keeping Me Awake
 
 ### 🤖 AI Agents
@@ -114,9 +116,7 @@ Exploring how AI can move from answering questions to actually taking actions.
 ### 🔗 MCP (Model Context Protocol)
 Learning how AI systems communicate with tools, data, and external systems.
 
-### 🏢 Enterprise AI
-Turning thousands of documents and business processes into something AI can actually understand.
-
+---
 
 ## 🎮 Character Sheet
 
@@ -140,6 +140,8 @@ Turning thousands of documents and business processes into something AI can actu
 - "Just one more feature..."
 - Bugs that disappear when someone is watching
 - Reading documentation after trying everything else
+  
+---
 
 ## 🚀 Projects
 
@@ -152,6 +154,8 @@ Flask-based web application designed to simplify the initial stages of **data sc
 - 📊 Exploratory Data Analysis (EDA)
 - ⚙️ Feature Engineering
 - 🤖 Machine Learning Model Training
+  
+---
 
 ## 📊 GitHub Stats
 
@@ -190,6 +194,7 @@ It simply keeps growing toward the light.
 
 That's pretty much my approach to learning AI too.
 
+---
 
 <p align="center">
   <i>"Code is 90% figuring out why it doesn't work and 10% breaking it later."</i>

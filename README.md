@@ -1,7 +1,10 @@
+<div align="center">
 
 # 🌻 Sunflower-Powered AI Engineer
 
-**Maitri Prabhu** | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
+### Maitri Prabhu
+
+**Final Year Undergrad** • 🤖 **AI Engineer in Progress** • 🐍 **Python Whisperer**
 
 *"Wandering through bugs & queries... but hey, that's how discoveries are made!"*
 
@@ -9,14 +12,16 @@
 
 🧠 Deep Learning • 📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP
 
----
-```
+<br>
+
 ☕ **Status:** Online
 
 🎯 **Current Quest:** Building AI systems that are smarter than my previous code
 
 🐞 **Side Quest:** Convincing bugs that they are actually features 🌻
-```
+
+</div>
+
 ---
 
 ## 🌸 About Me

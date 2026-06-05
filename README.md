@@ -12,31 +12,15 @@
 <td width="75%" valign="top">
 
 <h1>🌻 Sunflower-Powered AI Engineer</h1>
-
 <b>Maitri Prabhu</b> | Final Year Undergrad | 🤖 AI Engineer in Progress | 🐍 Python Whisperer
-
-<br><br>
-
 <i>"Wandering through bugs & queries... but hey, that's how discoveries are made!"</i>
-
-<br><br>
 
 🌱 Like sunflowers chasing sunlight, I'm usually chasing interesting problems.
 
-<br><br>
-
 🧠 Deep Learning • 📚 RAG • 🤖 AI Agents • 🕸️ Agentic AI • 🔗 MCP
 
-<br><br>
-
 ☕ <b>Status:</b> Online
-
-<br><br>
-
 🎯 <b>Current Quest:</b> Building AI systems that are smarter than my previous code
-
-<br><br>
-
 🐞 <b>Side Quest:</b> Convincing bugs that they are actually features 🌻
 
 </td>
